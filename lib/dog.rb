@@ -25,5 +25,5 @@ end
 snoopy = Dog.new("Snoopy", "lab")
 puts snoopy.name
 snoopy.name = "snoopy2"
-puts snoopy
+puts snoopy.name
 
