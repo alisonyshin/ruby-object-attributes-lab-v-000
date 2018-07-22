@@ -22,6 +22,6 @@ class Dog
   
 end
 
-Snoopy = Dog.new
+Snoopy = Dog.new("")
 
 
