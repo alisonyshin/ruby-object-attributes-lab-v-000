@@ -23,5 +23,5 @@ class Dog
 end
 
 snoopy = Dog.new("Snoopy", "lab")
-
+puts snoopy.name
 
